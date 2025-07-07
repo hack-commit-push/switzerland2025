@@ -1,0 +1,15 @@
+core:
+  - name: Andres
+    profile_url: https://twitter.com/aalmiray
+    picture: andres.png
+    short_desc: Developer Advocate at Oracle
+
+  - name: Marcus
+    profile_url: https://fosstodon.org/McPringle
+    picture: marcus.png
+    short_desc: Scrum Master at Adcubum
+
+  - name: Ruedi
+    profile_url: https://ruedi-arnold.com/
+    picture: ruedi.png
+    short_desc: Professor at HSLU
