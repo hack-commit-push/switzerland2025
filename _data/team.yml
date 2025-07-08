@@ -7,9 +7,9 @@ core:
   - name: Marcus
     profile_url: https://fosstodon.org/McPringle
     picture: marcus.png
-    short_desc: Scrum Master at Adcubum
+    short_desc: #OPENTOWORK
 
-  - name: Ruedi
+  - name: Alexandra
     profile_url: https://ruedi-arnold.com/
-    picture: ruedi.png
-    short_desc: Professor at HSLU
+    picture: alexandra.png
+    short_desc: Lecturer at HSLU
