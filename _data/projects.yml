@@ -37,7 +37,7 @@
 
 - name: Komunumo
   url: https://komunumo.app/
-  description: Komunumo is a platform for organizing events and communities: Similar to Meetup or Mobilizon, but fully open source, self-hostable, and designed with a strong focus on privacy and federation. The application is built with Java using Vaadin Flow, Spring Boot, and jOOQ, and supports the ActivityPub protocol to enable communication between instances.
+  description: Komunumo is a platform for organizing events and communities - similar to Meetup or Mobilizon, but fully open source, self-hostable, and designed with a strong focus on privacy and federation. The application is built with Java using Vaadin Flow, Spring Boot, and jOOQ, and supports the ActivityPub protocol to enable communication between instances.
   leads:
     - name: Marcus Fihlon
       spoken_languages:
