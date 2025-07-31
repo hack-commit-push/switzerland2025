@@ -55,3 +55,19 @@
       spoken_languages:
         - EN
         - SE
+
+- name: Apache Maven
+  url: https://maven.apache.org/
+  description: Maven is a build automation tool used primarily for Java projects. Maven manages a project's compilation, testing, and documentation.
+  leads:
+    - name: Gerd Aschemann
+      profile_url: https://github.com/ascheman
+      spoken_languages:
+        - EN
+        - DE
+    - name: Sandra Parsick
+      profile_url: https://github.com/sparsick
+      spoken_languages:
+        - EN
+        - DE
+  contributions:
