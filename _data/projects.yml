@@ -71,3 +71,12 @@
         - EN
         - DE
   contributions:
+
+- name: JFree Projects
+  url: https://github.com/jfree
+  description: JFreeChart, JFreeSVG, SVGGraphics2D, FXGraphics2D and other open source Java projects.
+  leads:
+    - name: David Gilbert
+      profile_url: https://github.com/jfree
+      spoken_languages:
+        - EN
