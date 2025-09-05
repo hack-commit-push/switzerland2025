@@ -91,3 +91,13 @@
       profile_url: https://github.com/jfree
       spoken_languages:
         - EN
+
+- name: OpenTelemetry Rust
+  url: https://github.com/open-telemetry/opentelemetry-rust
+  description: OpenTelemetry Rust is a collection of tools, APIs and SDKs to instrument and collect telemetry data from Rust applications.
+  leads:
+    - name: Scott Gerring
+      profile_url: https://github.com/scottgerring
+      spoken_languages:
+        - EN
+        - DE
