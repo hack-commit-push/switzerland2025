@@ -7,7 +7,7 @@ core:
   - name: Marcus
     profile_url: https://fosstodon.org/@McPringle
     picture: marcus.png
-    short_desc: #OPENTOWORK
+    short_desc: "#OPENTOWORK"
 
   - name: Alexandra
     profile_url: https://www.hslu.ch/de-ch/hochschule-luzern/ueber-uns/personensuche/profile?pid=6466
