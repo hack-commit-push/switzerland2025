@@ -70,6 +70,11 @@
       spoken_languages:
         - EN
         - DE
+    - name: Sebastian Tiemann
+      profile_url: https://github.com/sebtiem
+      spoken_languages:
+        - EN
+        - DE
   contributions:
 
 - name: AssertJ
