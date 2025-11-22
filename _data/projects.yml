@@ -87,6 +87,12 @@
         - EN
         - IT
   contributions:
+    - https://github.com/assertj/assertj/pull/4024
+    - https://github.com/assertj/assertj/pull/4026
+    - https://github.com/assertj/assertj/pull/4027
+    - https://github.com/assertj/assertj/pull/4029
+    - https://github.com/assertj/assertj-generator/pull/298
+    - https://github.com/junit-team/junit-framework/issues/5171
 
 - name: JFree Projects
   url: https://github.com/jfree
