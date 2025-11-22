@@ -76,6 +76,12 @@
         - EN
         - DE
   contributions:
+    - https://github.com/mojohaus/buildnumber-maven-plugin/pull/259
+    - https://github.com/mojohaus/buildnumber-maven-plugin/pull/260
+    - https://github.com/apache/maven-build-cache-extension/pull/412
+    - https://github.com/apache/maven-help-plugin/issues/327#issuecomment-3566814016
+    - https://github.com/apache/maven-build-cache-extension/pull/413
+    - https://github.com/support-and-care/java9-jigsaw-examples/pull/7
 
 - name: AssertJ
   url: https://assertj.github.io/doc/
