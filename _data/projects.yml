@@ -45,6 +45,9 @@
         - EN
         - DE
   contributions:
+    - https://github.com/McPringle/komunumo/pull/352
+    - https://github.com/McPringle/komunumo/pull/353
+    - https://github.com/McPringle/komunumo/pull/354
 
 - name: OpenJDK Mission Control
   url: https://github.com/openjdk/jmc
