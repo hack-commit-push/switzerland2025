@@ -34,6 +34,10 @@
         - EN
         - ES
   contributions:
+    - https://github.com/jreleaser/jreleaser/issues/2017
+    - https://github.com/jreleaser/jreleaser/issues/2010
+    - https://github.com/jreleaser/jreleaser/issues/2000
+    - https://github.com/jreleaser/jreleaser/issues/1993
 
 - name: Komunumo
   url: https://komunumo.app/
