@@ -125,3 +125,8 @@
       spoken_languages:
         - EN
         - DE
+  contributions:
+    - https://github.com/open-telemetry/opentelemetry-rust/pull/3255
+    - https://github.com/open-telemetry/opentelemetry-rust/pull/3256
+    - https://github.com/open-telemetry/opentelemetry-rust/pull/3257
+    - https://github.com/open-telemetry/opentelemetry-rust/pull/3259
